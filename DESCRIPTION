@@ -1,6 +1,6 @@
 Package: bea.R
 Title: Bureau of Economic Analysis API
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(person("Andrea", "Julca", role = c("aut", "cre"),
 		     email = c("Andrea.Julca@bea.gov")),
 				 person("Jeff", "Chen", role = "ctb"),
@@ -27,9 +27,9 @@ Description: Provides an R interface for the Bureau of Economic Analysis (BEA)
 URL: https://github.com/us-bea/beaR
 License: CC0
 LazyData: no
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-01-25 23:12:59 UTC; ODACJ1
+Packaged: 2017-07-12 21:49:48 UTC; odacj1
 Maintainer: Andrea Julca <Andrea.Julca@bea.gov>
 Repository: CRAN
-Date/Publication: 2017-01-26 01:02:50
+Date/Publication: 2017-07-13 04:53:16 UTC
