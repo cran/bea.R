@@ -1,4 +1,4 @@
-5e4a7bd6bcda9b248a4d6d92e7ecf038 *DESCRIPTION
+7acbf5153d50caf66fb650e735f8fd86 *DESCRIPTION
 5873a97be7eb9938b3ae67357fb44c3a *LICENSE.note
 e0c99b583258fcc49d703c8686ae7fdf *NAMESPACE
 330aef13e235b2a124e2ed3bdad82832 *R/bea2List.r
@@ -8,7 +8,7 @@ ce0a6a91600d1589ca663a79ee204b89 *R/beaParamVals.r
 e3eb81bab18148a9e23f06431532979e *R/beaParams.r
 6265438fe0ccccb292ad087b6e22fcbb *R/beaSearch.r
 23c6d35e6ff6925a77ae7f2f9a89c5ea *R/beaSets.r
-449902b3fa92adb11054e2040f99629c *R/beaUpdateMetadata.r
+5cf3cd2cb1e4ba9e4570b17271e5163b *R/beaUpdateMetadata.r
 2a9adb3b33b565e7c141fabbd576eae0 *R/beaViz.r
 cd7c7fd19568e6ac22d6c1c5a1b7cd6c *man/bea2List.Rd
 786e1978757d686912fa1c9cc9d97958 *man/bea2Tab.Rd

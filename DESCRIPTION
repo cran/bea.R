@@ -1,11 +1,11 @@
 Package: bea.R
 Title: Bureau of Economic Analysis API
-Version: 1.0.2
-Authors@R: c(person("Andrea", "Julca", role = c("aut", "cre"),
+Version: 1.0.4
+Authors@R: c(person("Andrea", "Batch", role = c("aut", "cre"),
 		     email = c("Andrea.Julca@bea.gov")),
 				 person("Jeff", "Chen", role = "ctb"),
 				 person("Walt", "Kampas", role = "ctb"))
-Author: Andrea Julca [aut, cre], 
+Author: Andrea Batch [aut, cre], 
 		Jeff Chen [ctb],
 		Walt Kampas [ctb]
 Depends: R (>= 3.2.1), data.table
@@ -29,7 +29,7 @@ License: CC0
 LazyData: no
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-07-12 21:49:48 UTC; odacj1
-Maintainer: Andrea Julca <Andrea.Julca@bea.gov>
+Packaged: 2017-12-07 18:11:52 UTC; ODACJ1
+Maintainer: Andrea Batch <Andrea.Julca@bea.gov>
 Repository: CRAN
-Date/Publication: 2017-07-13 04:53:16 UTC
+Date/Publication: 2017-12-07 23:58:53 UTC
